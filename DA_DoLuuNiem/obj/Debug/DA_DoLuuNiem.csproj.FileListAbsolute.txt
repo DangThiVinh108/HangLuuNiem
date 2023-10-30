@@ -1,0 +1,56 @@
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\bin\Debug\DA_DoLuuNiem.exe.config
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\bin\Debug\DA_DoLuuNiem.exe
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\bin\Debug\DA_DoLuuNiem.pdb
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.AssemblyReference.cache
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmMain.resources
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.Properties.Resources.resources
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.GenerateResource.cache
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.CoreCompileInputs.cache
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.exe
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.pdb
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmLogin.resources
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmCustomer.resources
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmSupplier.resources
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmUsers.resources
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmSouvenir.resources
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmOrders.resources
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmSell.resources
+D:\TuHoc\C#\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmListOrders.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\bin\Debug\DA_DoLuuNiem.exe.config
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\bin\Debug\DA_DoLuuNiem.exe
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\bin\Debug\DA_DoLuuNiem.pdb
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.AssemblyReference.cache
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.SuggestedBindingRedirects.cache
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmCustomer.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmLogin.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmMain.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmOrders.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmSell.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmSouvenir.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmSupplier.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmUsers.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmListOrders.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.Properties.Resources.resources
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.GenerateResource.cache
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.CoreCompileInputs.cache
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.exe
+D:\TuHoc\Do an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.pdb
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\bin\Debug\DA_DoLuuNiem.exe.config
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\bin\Debug\DA_DoLuuNiem.exe
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\bin\Debug\DA_DoLuuNiem.pdb
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.AssemblyReference.cache
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.SuggestedBindingRedirects.cache
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmCustomer.resources
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmLogin.resources
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmMain.resources
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmOrders.resources
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmSell.resources
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmSouvenir.resources
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmSupplier.resources
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmUsers.resources
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.frmListOrders.resources
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.Properties.Resources.resources
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.GenerateResource.cache
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.csproj.CoreCompileInputs.cache
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.exe
+V:\TuHoc\Do_an\DoAnC#_Sql\DA_DoLuuNiem\DA_DoLuuNiem\obj\Debug\DA_DoLuuNiem.pdb
